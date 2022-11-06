@@ -6,6 +6,7 @@ I used HTML, JS.
 This application is a movie application that works with user input.
 
 How to use ?
+
 The first box is the name of the movie, and the next box is the director of the movie.
 
 Finally, in order to add an image, if the address of a photo related to that movie is copied from the search engine and copied to the box with the "film afiş linki", the user will have added a movie to the application.
